@@ -1,0 +1,14 @@
+Leila.Askri@PC-PRO MINGW64 ~/desktop/test2 (main)
+$ tree
+.
+|-- README.md
+|-- app
+|   |-- controller
+|   |-- entity
+|   `-- repository
+|-- index.html
+|-- package.json
+`-- public
+    |-- css
+    |-- js
+    `-- media
